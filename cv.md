@@ -1,6 +1,6 @@
 # Elena Makarchuk
 ## Contacts
-| | |
+| Type     | Value                                                                                      |
 | -------- | ------------------------------------------------------------------------------------------ |
 | Email    | 200193@inbox.ru                                                                            |
 | Telegram | [https://t.me/elena9301](https://t.me/elena9301)                                           |
@@ -10,9 +10,9 @@
 ## Skills 
 * Languages & technologies: HTML, CSS, JavaScript
 * Version Control Systems: Git
-## Experience:
+## Experience
 * LLC "Baranovichi Food Products and Concentrates Plant", Accountant (2014- until now)
-## Education: 
+## Education
 * 2010-2014 Baranovichi State University, Faculty of Economics and Law, Accounting, analysis and audit.
-## English level: 
+## English level
 A2 - Pre-Intermediate
