@@ -29,3 +29,19 @@ I educate myself, take free courses.
 ## Experience
 
 In my current job, I gained experience that taught me how to manage my time rationally and complete the tasks assigned to me on time, as well as multitask, be stress-resistant and attentive.
+
+## Code example
+
+```function validPass(password){
+ let res = /^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{4,19}$/g.test(password);
+  if (res == true){
+    return "VALID";
+  } else {
+    return "INVALID"
+  };
+}
+```
+
+## Languages
+
+English - A2
