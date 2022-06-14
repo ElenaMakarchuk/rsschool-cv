@@ -1,0 +1,95 @@
+@font-face {
+    font-family: "Caviar-dreams", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    src: url("./fonts/caviar-dreams.ttf") format("ttf");
+}
+
+
+body {
+    background: url("./img/fon-dlya-rezyume.jpg") center no-repeat;
+    background-size: cover;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: justify;
+    font-family: "Caviar-dreams", sans-serif;
+    font-style: normal;
+    color: #844848;
+}
+
+a {
+    color: #5b86ab;
+    text-decoration: none;
+}
+
+
+h1 {
+    font-family: "Caviar-dreams", sans-serif;
+    font-style: italic;
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+.header_foto {
+    max-width: 190px;
+    border-radius: 100%;
+    border: 5px solid #d3cbbf;
+}
+
+.table_title {
+    caption-side: top;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+td:first-child {
+    background: #d8bcaa;
+    color: white;
+    padding: 10px 20px;
+    text-align: left;
+}
+
+td {
+    width: 200%;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    border-color: white;
+    background: hsl(18deg 37% 84%);
+    text-align: center;
+}
+
+.block_one {
+    display: flex;
+    justify-content: space-around;
+}
+
+.main {
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+p, div, address {
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+li {
+    margin: 10px;
+}
+
+.link:hover {
+    text-decoration: underline;
+    color: #844848;
+}
+
+.logo {
+    width: 15%;
+}
